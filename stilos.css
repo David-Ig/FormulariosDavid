@@ -1,5 +1,7 @@
 body
 {
-    font-family: 'Times New Roman', Times, serif;
-   
+    font-family: 'Times New Roman', Times,;
+    width:70%;border:1px dotted rgb(0, 0, 0);padding:8px;margin:auto;
+    background-color: rgb(118,117,116);
+    
 }
